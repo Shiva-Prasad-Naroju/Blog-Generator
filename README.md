@@ -41,4 +41,4 @@ A lightweight Streamlit application that generates human-like blog content using
 
 ## Result UI:
 
-![Generated Blog Screenshot](result_ui_img/result_screenshot.png)
+![Generated Blog Screenshot](result_ui_img/Blog Generator.png)
